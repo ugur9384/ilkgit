@@ -1,1 +1,1 @@
-print("oldu")
+print("oldu mu acaba")
